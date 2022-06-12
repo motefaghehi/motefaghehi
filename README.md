@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @motefaghehi
 - 👀 I’m interested in drveloping enjoiable applications.
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on best programmers.
+- 💞️ I’m looking to collaborate with best programmers.
 - 📫 motefaghehi@gmail.com
 
 <!---
