@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @motefaghehi
+- 👋 Hi, I’m @motefaghehi. CEO of ToobaSoft.
 - 👀 I’m interested in drveloping enjoiable applications.
-- 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate with best programmers.
 - 📫 motefaghehi@gmail.com
 
